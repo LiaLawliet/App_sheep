@@ -1,0 +1,10 @@
+{
+    "name": "popot/app_sheep",
+    "description": "Sheep",
+    "type": "PHP",
+    "require": {
+        "fzaninotto/faker": "dev-master"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
